@@ -1,0 +1,13 @@
+.users {
+    list-style: none;
+    text-align: center;
+    font-size: 27px;
+}
+.users li {
+    padding: 10px 0;
+    border-top: 2px solid black
+}
+
+img {
+    border-radius: 50%
+}
